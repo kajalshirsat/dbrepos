@@ -7,7 +7,7 @@ public class Calc {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Calculator !!!!!!!!! :)");
+		System.out.println("Calculator..............!!!!!!!!! :)");
 		System.out.println("add : "+add(2,3));
 		System.out.println("subtract : "+subtract(2,3));
 		System.out.println("multiply : "+multiply(2,3));
