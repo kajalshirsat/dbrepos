@@ -22,6 +22,7 @@ public class Calc {
 		return a-b;
 	}
 	static float multiply(float a, float b){
+		System.out.println("multiply......");
 		return a*b;
 	}
 	static float divide(float a, float b){
